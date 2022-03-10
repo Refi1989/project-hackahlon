@@ -174,26 +174,23 @@ p{
 
 .autocom-box li:hover main{
     background: rgb(216, 164, 192);
-    background: rgb(216,164,192); 
-}
+    background: rgb(216,164,192
 
 .autocom-box li:hover{
 
     background: rgb(216, 164, 192);
-
     background: rgb(216,164,192);
-    }
+
+ }
 
 .autocom-box li:hover main
   {
 
    background: rgb(216,164,192);
-
     background: rgb(216,164,192);
-
-
-   
+  
 }
+
 .navbar-light {
     background-color: aqua;
 }
@@ -251,14 +248,15 @@ ion-icon{
     }
 
 
-    .autocom-box li:hover{ 
+
+
+    .autocom-box li:hover{
 
         background: rgb(238, 193, 205);
         background: rgb(216,164,192)
         }
 
     .autocom-box li:hover main{
-
         background: rgb(238, 193, 205);
         background: rgb(216,164,192); 
     
